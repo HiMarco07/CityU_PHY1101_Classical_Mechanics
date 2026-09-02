@@ -1,0 +1,12 @@
+# Windows 系统自动生成的文件，不需要上传
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS 系统文件（如果以后有 Mac 同学参与）
+.DS_Store
+
+# Office 临时文件（防止编辑中误传）
+~$*.docx
+~$*.pdf
